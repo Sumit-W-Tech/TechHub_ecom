@@ -1,4 +1,4 @@
-# Welcome to your TradeHub project
+# Welcome to TradeHub project
 
 ## Project info
 
